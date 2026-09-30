@@ -1,8 +1,8 @@
 {
   "enable": true,
   "title": "<b><color=#FFD700>✦ PALLADIUM CHEAT ✦</color></b>",
-  "msg": "<b><color=#00FF88>● สถานะระบบ :</color> <color=#FFFFFF>พร้อมใช้งาน ( Active )</color></b>\n<color=#FFE869>ติดต่อแอดมิน :</color> <color=#00E5FF>@TG : ZXVXZV_XZVC</color>\n<color=#FFE869>ระบบป้องกัน :</color> <color=#00FF88>BYPASS AUTO BAN ( ปลอดภัย 100% )</color>\n",
-  "btn_enter": "<b><color=#FFFFFF>เข้าสู่เกม</color></b>",
-  "btn_contact": "<b><color=#00E5FF>ติดต่อแอดมิน</color></b>",
-  "contact_url": "https://t.me/zxvxzv_xzvc"
+  "msg": "<b><color=#00FF88>● สถานะระบบ :</color> <color=#FFFFFF>พร้อมใช้งาน ( Active )</color></b>\n<color=#FFE869>ติดต่อแอดมิน :</color> <color=#00E5FF>@TG : ZXVXZV_XZVC</color>\n<color=#FFE869>ระบบป้องกัน :</color> <color=#00FF88>BYPASS AUTO BAN & ANTI REPORT ( ปลอดภัย 100% )</color>\n",
+  "cancel": "<color=#CCCCCC>ปิดหน้าต่าง</color>",
+  "confirm": "<b><color=#FFFFFF>เข้าสู่เกม</color></b>",
+  "checkbox": "<color=#AAAAAA>รับทราบครับเฮีย</color>"
 }
